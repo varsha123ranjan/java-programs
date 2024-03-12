@@ -1,5 +1,4 @@
 public class SwapTwoNumbers{
-
     public static void main(String[] arsg){
 	int number1=10;
 	int number2=20;
@@ -9,5 +8,4 @@ public class SwapTwoNumbers{
         System.out.println("number1: "+number1);
 	System.out.println("number2: "+number2);
   }
-
 }
